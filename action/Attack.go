@@ -6,5 +6,5 @@ type Attack struct {
 }
 
 func (s *Attack) TakeAction() {
-	fmt.Printf("O player decidiu atacar!")
+	fmt.Printf("O player decidiu atacar! \n")
 }

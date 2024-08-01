@@ -6,5 +6,5 @@ type Defense struct {
 }
 
 func (s *Defense) TakeAction() {
-	fmt.Printf("O player decidiu defender!")
+	fmt.Printf("O player decidiu defender! \n")
 }
